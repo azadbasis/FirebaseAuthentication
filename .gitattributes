@@ -1,2 +1,2 @@
 *.java linguist-detectable=false 
-*.kt linguist-language=Kotlin *.kt linguist-detectable=true android/* linguist-vendored build/* linguist-vendored
+*.kt linguist-language=Kotlin
